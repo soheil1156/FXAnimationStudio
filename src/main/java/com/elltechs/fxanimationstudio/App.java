@@ -21,6 +21,7 @@ public class App extends Application {
         stage.setScene(scene);
         stage.show();
         System.out.println("com.elltechs.fxanimationstudio.App.start()");
+        System.out.println("com.elltechs.fxanimationstudio.App.start()");
     }
 
     static void setRoot(String fxml) throws IOException {
